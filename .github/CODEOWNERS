@@ -1,0 +1,8 @@
+# Cluster add-ons. One directory per workstream so six teams can work without merge contention.
+/core/       @Ubuntu-25c-market-prep/infra
+/scaling/    @Ubuntu-25c-market-prep/scaling
+/utils/      @Ubuntu-25c-market-prep/utils
+/velero/     @Ubuntu-25c-market-prep/velero
+/rancher/    @Ubuntu-25c-market-prep/rancher
+/istio/      @Ubuntu-25c-market-prep/istio
+*            @Ubuntu-25c-market-prep/cto
